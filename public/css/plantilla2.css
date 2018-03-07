@@ -1,0 +1,61 @@
+
+	.fondo { background:#FFD600; }
+	
+	.principal { font-family:calibri; font-size:20px; color:#0062C5; font-weight:bold; }
+	
+	.texto { font-family:calibri; font-size:18px; color:#003295; }
+	
+	.error { font-family:calibri; font-size:18px; color:#FF0000; }
+	
+	.boton { height:26px; width:130px; border:0px; border-radius:10px 4px 4px 4px; background:#0062C5; font-family:calibri; font-size:14px; color:#FFFFAA; font-weight:bold; }
+
+	.botonMenu { height:26px; width:100px; border:0px; border-radius:10px 0px 10px 0px; background:#0080FF; font-family:calibri; font-size:14px; color:#FFFFAA; font-weight:bold; }	
+	
+	.tablaLogin { width:420px; padding:8px; border:1px solid #0062C5; background:#FFD600; }
+	
+	.tablaBuscar { width:590px; padding:8px; border:0px solid #0062C5; background:#FFD600; }
+	
+	.tablaReservas { border-collapse:collapse; border:1px solid #0062C5; width:620px; background:#FFD600; }
+	
+	.filaResaltada { background:#FFE622; font-family:calibri; font-size:18px; color:#0062C5; }
+	
+	.filaNormal { background:#FFD600; font-family:calibri; font-size:18px; color:#0062C5; }
+	
+	.tablaNuevo { width:590px; padding:8px; border:0px solid #0062C5; background:#FFD600; }
+	
+	.tablaPerfil { width:320px; padding:8px; border:0px solid #0062C5; background:#FFD600; }
+	
+	.tablaAsientos { border-collapse:collapse; width:226px; height:50px; border:1px solid #0062C5; }	
+	
+	td,th { padding:7px; }
+	
+	#divLogin { position:absolute; left:50px; top:50px; }
+	
+	#divLogo { position:relative; left:-25px; top:-25px; }
+	
+	#divCabecera { position:absolute; left:30px; top:30px; width:640px; height:150px; background:#FFE622; } 
+	
+	#divMenu { position:absolute; left:130px; top:78px; width:150px; }
+	
+	#iframeContenido { position:absolute; left:30px; top:180px; width:640px; height:480px; background:#FFD600; border:0px solid #0062C5;}
+
+	#divAvion { position:relative; left:0px; width:200px; height:260px; }
+	
+	#divAlaSuperiorAvion { position:absolute; left:80px; top:10px; }
+	
+	#divCabezaAvion { position:absolute; left:10px; top:102px; }
+	
+	#divAsientosAvion { position:relative; left:80px; top:105px; }
+	
+	#divColaAvion { position:absolute; left:306px; top:54px; }
+	
+	#divAlaInferiorAvion  { position:absolute; left:80px; top:153px; }
+	
+	#divTablaReservas { position:relative; left:2px; background:#FFD600; }
+	
+	#divRuta { /*display:none;*/ position:absolute; left:400px; top:150px; }
+	
+	#divMensaje { height:20px; }
+	
+
+	
